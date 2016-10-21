@@ -1,0 +1,5 @@
+Nombre del dessarrollador
+Rodrio Martinez Sanchez
+
+Lenguajes
+SQL, java ,c ,c++ ,php,html,css, javascript
